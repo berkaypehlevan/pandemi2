@@ -1,0 +1,21 @@
+body {
+    color: rgb(65, 65, 65);
+}
+
+.title {
+    margin-top: 32px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 250px;
+    height: 50px;
+    font-weight: 700;
+    font-size: 34px;
+    color: rgb(255, 255, 255);
+}
+
+.warn {
+    margin-bottom: 24px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100px;
+}
